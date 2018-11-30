@@ -4,16 +4,16 @@ Uses ActiveMq
 
 TODO
 
-[ ] Create Producer, Consumer
+- [ ] Create Producer, Consumer
 
-[ ] Implement DB module with Guice Injection
+- [ ] Implement DB module with Guice Injection
 
-[ ] Add template support
+- [ ] Add template support
 
-[ ] Add email support
+- [ ] Add email support
 
-[ ] Generify
+- [ ] Generify
 
-[ ] MultiThread
+- [ ] MultiThread
 
-[ ] CI/CD support
+- [ ] CI/CD support
